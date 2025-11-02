@@ -1,0 +1,13 @@
+# Core dependencies
+selenium>=4.23.0
+openpyxl>=3.1.2
+
+# Tenable-specific helper
+chromedriver-autoinstaller>=0.6.3
+
+# WorkBench-specific helper
+pandas>=2.2.2
+
+# Optional but helpful for debugging
+requests>=2.31.0
+lxml[html_clean]>=5.2.1
